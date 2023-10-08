@@ -9,6 +9,7 @@
     color: white;
     border-radius: 15px;
     margin-top: 150px;
+    position: relative;
   }
   
   .textbox input {
